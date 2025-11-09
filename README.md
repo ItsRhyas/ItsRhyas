@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tecnologías que manejo  
+## 🚀 Tecnologías que manejo / estoy aprendiendo
 
 ### 🧠 Lenguajes de programación  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -38,7 +38,7 @@
 ---
 
 ## ⚡ En qué estoy trabajando actualmente  
-- Desarrollando proyectos con **IoT** (Arduino + ESP32 + Python).  
+- Desarrollando proyectos con **IoT**. 
 - Aprendiendo **Docker**, **React** y **Django REST Framework** para crear aplicaciones completas.  
 - Explorando el desarrollo de videojuegos con **Godot Engine**.  
 - Aplicando **Scrum** para la gestión de proyectos en equipo.  
@@ -61,5 +61,3 @@
 🧠 [Portafolio o proyectos destacados](#) *(en desarrollo)*
 
 ---
-
-✨ *Gracias por visitar mi perfil. Siempre aprendiendo, siempre creando.* 🚀
