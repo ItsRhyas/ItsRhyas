@@ -40,10 +40,12 @@
 ---
 
 💡 Experiencias extra académicas
-Rally Latinoamericano de Innovación 2025
+Rally Latinoamericano de Innovación 2025 
+
 <img width="249" height="103" alt="image" src="https://github.com/user-attachments/assets/3125a284-bac0-46a6-b0e0-d921e08420a5" />
 
-Hackaton Nicaragua 2025
+Hackaton Nicaragua 2025 
+
 <img width="302" height="165" alt="image" src="https://github.com/user-attachments/assets/39d30543-e811-4fbf-a813-a3c65b4604ed" />
 
 ## ⚡ En qué estoy trabajando actualmente  
