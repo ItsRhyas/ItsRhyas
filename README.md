@@ -60,16 +60,8 @@ Hackaton Nicaragua 2025
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidRuiz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRuiz&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsRhyas&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRhyas&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
----
-
-## 🌐 Conecta conmigo  
-📫 **Correo:** david.ruiz@est.ulsa.edu.ni
-💼 [LinkedIn](https://www.linkedin.com) *(próximamente)*  
-🧠 [Portafolio o proyectos destacados](#) *(en desarrollo)*
-
----
