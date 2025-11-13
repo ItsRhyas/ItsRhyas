@@ -40,6 +40,7 @@
 ---
 
 💡 Experiencias extra académicas
+
 Rally Latinoamericano de Innovación 2025 
 
 <img width="249" height="103" alt="image" src="https://github.com/user-attachments/assets/3125a284-bac0-46a6-b0e0-d921e08420a5" />
