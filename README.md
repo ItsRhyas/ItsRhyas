@@ -13,6 +13,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### 🖥️ Desarrollo Web  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,6 +38,13 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
+
+💡 Experiencias extra académicas
+Rally Latinoamericano de Innovación 2025
+<img width="249" height="103" alt="image" src="https://github.com/user-attachments/assets/3125a284-bac0-46a6-b0e0-d921e08420a5" />
+
+Hackaton Nicaragua 2025
+<img width="302" height="165" alt="image" src="https://github.com/user-attachments/assets/39d30543-e811-4fbf-a813-a3c65b4604ed" />
 
 ## ⚡ En qué estoy trabajando actualmente  
 - Desarrollando proyectos con **IoT**. 
