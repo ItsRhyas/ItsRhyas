@@ -1,6 +1,6 @@
 # ¡Hola! Soy David Ruiz 
 
-Estudiante de Ingeniería Cibernética y Electrónica en la Universidad Tecnologica La Salle (ULSA).
+Estudiante de Ingeniería Cibernética y Electrónica en la Universidad Tecnologica La Salle (ULSA). Interesado en la implementacion de IA como apoyo en entornos de desarrollo.
 
 ---
 
@@ -21,7 +21,6 @@ Estudiante de Ingeniería Cibernética y Electrónica en la Universidad Tecnolog
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![PLC Logo!](https://img.shields.io/badge/PLC%20Siemens%20LOGO!-009999?style=for-the-badge&logo=siemens&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-005A70?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### Herramientas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
