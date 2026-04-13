@@ -1,6 +1,6 @@
 # ¡Hola! Soy David Ruiz 
 
-Estudiante de **Ingeniería Cibernética y Electrónica** en la **Universidad Tecnologica La Salle (ULSA)**.
+Estudiante de Ingeniería Cibernética y Electrónica en la Universidad Tecnologica La Salle (ULSA).
 
 ---
 
